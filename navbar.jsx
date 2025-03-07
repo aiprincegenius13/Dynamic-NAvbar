@@ -1,4 +1,5 @@
 //Dynamic NavBar
+import Navbar from "Navbar.css"
 
 const Navbar = () => {
     return(
